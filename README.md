@@ -34,7 +34,7 @@ The goal is to **analyze trends, detect patterns, and provide actionable recomme
 ---
 
 ## Tools & Libraries 
-- **Python 3.17
+- **Python 3.17**
 - **Data Manipulation:** `pandas`, `numpy`
 - **Visualization:** `matplotlib`
 
